@@ -58,3 +58,6 @@ c:\users\hector_herrera\documents\visual studio 2015\Projects\CronJob\CronJob\bi
 c:\users\hector_herrera\documents\visual studio 2015\Projects\CronJob\CronJob\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
 c:\users\hector_herrera\documents\visual studio 2015\Projects\CronJob\CronJob\obj\Debug\CronJob.exe
 c:\users\hector_herrera\documents\visual studio 2015\Projects\CronJob\CronJob\obj\Debug\CronJob.pdb
+C:\Users\hector_herrera\Documents\Visual Studio 2015\Projects\azure-playground\CronJob\CronJob\bin\Debug\CronJob.exe.config
+C:\Users\hector_herrera\Documents\Visual Studio 2015\Projects\azure-playground\CronJob\CronJob\obj\Debug\CronJob.exe
+C:\Users\hector_herrera\Documents\Visual Studio 2015\Projects\azure-playground\CronJob\CronJob\obj\Debug\CronJob.pdb
